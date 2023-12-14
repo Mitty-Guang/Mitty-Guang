@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Mitty-Guang&show_icons=true&theme=radical&hide=contribs,prs"/
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitty-Guang"/
 </div>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitty-Guang&layout=compact"/
