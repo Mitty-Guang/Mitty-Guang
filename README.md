@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/你-相信光吗-brightgreen"/>
+<img src="https://img.shields.io/badge/Mitty-Guang-brightgreen"/>
 
 - 👋 Hi, I’m @Mitty-Guang
 - 👀 I’m interested in ...
